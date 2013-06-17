@@ -4,3 +4,4 @@ set shiftwidth=8
 call pathogen#runtime_append_all_bundles()
 call pathogen#helptags()
 call pathogen#infect()
+colorscheme softblue
