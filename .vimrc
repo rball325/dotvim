@@ -2,8 +2,9 @@ set ts=4
 set expandtab
 set nowrap
 set shiftwidth=4
-set ff=dos
+set ff=unix
 set makeprg=make
+
 call pathogen#incubate()
 call pathogen#helptags()
 call pathogen#infect()
